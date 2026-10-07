@@ -1,0 +1,5 @@
+com\example\employeemanagement\repository\EmployeeRepositoryTest.class
+com\example\employeemanagement\service\EmployeeServiceUnitTest.class
+com\example\employeemanagement\Lab3ApplicationTests.class
+com\example\employeemanagement\controller\EmployeeControllerTest.class
+com\example\employeemanagement\controller\EmployeeVersionControllerTest.class
